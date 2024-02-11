@@ -6,4 +6,4 @@ metadata:
 spec:
   type: database
   owner: Care360Devops
-  system: CARE360
+  system: care360-node-member-api
